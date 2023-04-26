@@ -56,7 +56,3 @@ Space Complexity
 
 The space complexity of the binary search is O(1).
 
-# Applications:-
-
-1. In libraries of Java, .Net, C++ STL
-2.While debugging, the binary search is used to pinpoint the place where the error happens.
